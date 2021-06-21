@@ -1,0 +1,19 @@
+{
+  "name": "js",
+  "version": "1.0.0",
+  "description": "This is a movie seats booking app using HTML/CSS/JavaScript",
+  "main": "index.js",
+  "scripts": {
+    "start": "live-server"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/johnlester347/Movie-Seats-Booking-App.git"
+  },
+  "author": "John Lester Pamplona",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/johnlester347/Movie-Seats-Booking-App/issues"
+  },
+  "homepage": "https://github.com/johnlester347/Movie-Seats-Booking-App#readme"
+}
